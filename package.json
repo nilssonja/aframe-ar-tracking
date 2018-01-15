@@ -1,0 +1,29 @@
+{
+  "name": "aframe-ar-tracking",
+  "version": "1.0.0",
+  "description": "Aframe ar tracking component",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./src/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilssonja/aframe-ar-tracking.git"
+  },
+  "keywords": [
+    "aframe",
+    "AR",
+    "ARCore",
+    "tracking"
+  ],
+  "author": "Justin Nilsson / Michael Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilssonja/aframe-ar-tracking/issues"
+  },
+  "dependencies": {
+    "express-starter": "https://github.com/Yukiiro-Nite/express-starter.git"
+  },
+  "homepage": "https://github.com/nilssonja/aframe-ar-tracking#readme"
+}
