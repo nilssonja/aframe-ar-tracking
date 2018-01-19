@@ -1,4 +1,4 @@
-AFRAME.registerComponent('ar-position', {
+AFRAME.registerComponent('ar-tracking', {
   init: function () {
     this.frameData = new VRFrameData();
   },
